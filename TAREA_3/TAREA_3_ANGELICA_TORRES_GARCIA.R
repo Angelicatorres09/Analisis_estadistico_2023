@@ -17,7 +17,7 @@ x
 y <- c(1, 3, 4, 2)
 y
 
-sum(x)
+sum(x) 
 prod(x)
 
 sum(y)
@@ -107,12 +107,12 @@ hist(Germinacion.2$Germ.2)
 
 #b) ¿Cuál es la media? Muestre su trabajo o código, o explique cómo obtuvo su respuesta
 
-mean(Germinacion.2$Germinacion.2)
+mean(cajas_petri)
 
 #c) ¿Cuál es la mediana? Muestre su trabajo o código, o explique cómo obtuvo su respuesta
 
 
-median(Germinacion.2$Germinacion.2)
+median(cajas_petri)
 
 
 # PROBLEMA_6 --------------------------------------------------------------
@@ -216,3 +216,4 @@ median(digitos.3)
 #media
 
 mean(digitos.3)
+
