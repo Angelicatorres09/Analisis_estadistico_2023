@@ -13,7 +13,7 @@ esp.url <- paste0("https://raw.githubusercontent.com/mgtagle/",
                   "PrincipiosEstadistica2021/main/cuadro1.csv")
 inventario <- read.csv(esp.url)
 
-head(inventario)
+inventario
 
 #funciones para inspeccionar sus propiedades y funciones y estructura básica:
 
@@ -32,10 +32,28 @@ str(inventario)
 # dimensiones (num filas y columnas)
 
 dim(inventario)
+dim(inventario)
+
+#head(inventario, n = 5): muestra las primeras n filas
+
+head(inventario, n=5)
+
+#tail(inventario, n = 5): muestra las últimas n filas
+
+tail(inventario, n=5)
 
 # nombre de las primeras cinco columnas
 
 names(inventario [1:5])
+names (inventario)
+
+#colnames(inventario): igualnames(inventario)
+
+colnames(inventario)
+
+#summary(inventario): resumen estadístico de las variables presentes eninventario
+
+summary(inventario)
 
 # Resumen estadístico básico de las columnas 3 a 5 columnas
 

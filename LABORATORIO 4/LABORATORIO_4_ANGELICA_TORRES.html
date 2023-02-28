@@ -372,14 +372,58 @@ esp.url &lt;- paste0(&quot;https://raw.githubusercontent.com/mgtagle/&quot;,
                   &quot;PrincipiosEstadistica2021/main/cuadro1.csv&quot;)
 inventario &lt;- read.csv(esp.url)
 
-head(inventario)</code></pre>
-<pre><code>##   Arbol Fecha Especie Posicion Vecinos Diametros Altura
-## 1     1    12       F        C       4      15.3  14.78
-## 2     2    12       F        D       3      17.8  17.07
-## 3     3     9       C        D       5      18.2  18.28
-## 4     4     9       H        S       4       9.7   8.79
-## 5     5     7       H        I       6      10.8  10.18
-## 6     6    10       C        I       3      14.1  14.90</code></pre>
+inventario</code></pre>
+<pre><code>##    Arbol Fecha Especie Posicion Vecinos Diametros Altura
+## 1      1    12       F        C       4      15.3  14.78
+## 2      2    12       F        D       3      17.8  17.07
+## 3      3     9       C        D       5      18.2  18.28
+## 4      4     9       H        S       4       9.7   8.79
+## 5      5     7       H        I       6      10.8  10.18
+## 6      6    10       C        I       3      14.1  14.90
+## 7      7    10       C        C       2      17.1  15.34
+## 8      8    12       C        D       2      20.6  17.22
+## 9      9    16       F        C       4      18.2  15.15
+## 10    10    14       F        I       5      16.1  14.66
+## 11    11     8       H        D       3      14.2  17.43
+## 12    12     5       H        D       6      14.8  17.45
+## 13    13    12       F        I       2      19.1  14.18
+## 14    14     5       C        I       2      16.7  13.40
+## 15    15    12       C        S       4      18.9  10.40
+## 16    16    20       H        S       3      12.4  11.52
+## 17    17    15       H        C       0      17.3  14.61
+## 18    18    20       F        D       1      22.7  21.46
+## 19    19    15       C        C       4      15.1  17.82
+## 20    20    14       C        I       3      17.7  11.38
+## 21    21    14       C        S       5      13.4   8.50
+## 22    22    13       C        I       4      16.2  12.80
+## 23    23    14       F        D       1      18.5  18.71
+## 24    24    20       F        I       4      15.0  14.48
+## 25    25    21       F        C       2      18.8  14.81
+## 26    26     5       H        I       4      15.8  12.01
+## 27    27     2       H        I       3      16.1  11.70
+## 28    28    22       C        C       3      15.4  16.03
+## 29    29    22       C        I       0      17.8  14.46
+## 30    30    18       C        S       1      18.5   8.47
+## 31    31    16       C        I       3      14.1  11.22
+## 32    32    16       C        C       5      14.8  12.34
+## 33    33    17       F        C       4      15.5  16.79
+## 34    34    17       F        I       6      13.8  16.06
+## 35    35    18       F        S       4      13.0  13.20
+## 36    36    20       H        C       2      18.2  14.30
+## 37    37    22       H        C       0      22.3  16.84
+## 38    38    20       H        I       3      17.8  13.84
+## 39    39    17       C        I       4      13.1  11.31
+## 40    40    17       C        I       6      12.8  13.20
+## 41    41    16       C        C       3      13.3  13.75
+## 42    42    23       F        C       3      15.6  14.60
+## 43    43    23       H        C       4      16.6  12.56
+## 44    43    22       C        I       5      13.0  10.88
+## 45    45    24       C        I       4      10.2  13.93
+## 46    46    23       F        I       3      14.4  12.68
+## 47    47    24       C        S       6       7.7  10.00
+## 48    48    25       C        S       5       9.9   8.69
+## 49    49    25       H        D       1      20.4  16.73
+## 50    50    24       H        D       3      20.9  16.25</code></pre>
 <pre class="r"><code>#funciones para inspeccionar sus propiedades y funciones y estructura básica:
 
 #str(inventario): mostrar la estructura general de los datos
@@ -405,10 +449,55 @@ str(inventario)</code></pre>
 
 dim(inventario)</code></pre>
 <pre><code>## [1] 50  7</code></pre>
+<pre class="r"><code>dim(inventario)</code></pre>
+<pre><code>## [1] 50  7</code></pre>
+<pre class="r"><code>#head(inventario, n = 5): muestra las primeras n filas
+
+head(inventario, n=5)</code></pre>
+<pre><code>##   Arbol Fecha Especie Posicion Vecinos Diametros Altura
+## 1     1    12       F        C       4      15.3  14.78
+## 2     2    12       F        D       3      17.8  17.07
+## 3     3     9       C        D       5      18.2  18.28
+## 4     4     9       H        S       4       9.7   8.79
+## 5     5     7       H        I       6      10.8  10.18</code></pre>
+<pre class="r"><code>#tail(inventario, n = 5): muestra las últimas n filas
+
+tail(inventario, n=5)</code></pre>
+<pre><code>##    Arbol Fecha Especie Posicion Vecinos Diametros Altura
+## 46    46    23       F        I       3      14.4  12.68
+## 47    47    24       C        S       6       7.7  10.00
+## 48    48    25       C        S       5       9.9   8.69
+## 49    49    25       H        D       1      20.4  16.73
+## 50    50    24       H        D       3      20.9  16.25</code></pre>
 <pre class="r"><code># nombre de las primeras cinco columnas
 
 names(inventario [1:5])</code></pre>
 <pre><code>## [1] &quot;Arbol&quot;    &quot;Fecha&quot;    &quot;Especie&quot;  &quot;Posicion&quot; &quot;Vecinos&quot;</code></pre>
+<pre class="r"><code>names (inventario)</code></pre>
+<pre><code>## [1] &quot;Arbol&quot;     &quot;Fecha&quot;     &quot;Especie&quot;   &quot;Posicion&quot;  &quot;Vecinos&quot;   &quot;Diametros&quot;
+## [7] &quot;Altura&quot;</code></pre>
+<pre class="r"><code>#colnames(inventario): igualnames(inventario)
+
+colnames(inventario)</code></pre>
+<pre><code>## [1] &quot;Arbol&quot;     &quot;Fecha&quot;     &quot;Especie&quot;   &quot;Posicion&quot;  &quot;Vecinos&quot;   &quot;Diametros&quot;
+## [7] &quot;Altura&quot;</code></pre>
+<pre class="r"><code>#summary(inventario): resumen estadístico de las variables presentes eninventario
+
+summary(inventario)</code></pre>
+<pre><code>##      Arbol           Fecha         Especie            Posicion        
+##  Min.   : 1.00   Min.   : 2.00   Length:50          Length:50         
+##  1st Qu.:13.25   1st Qu.:12.00   Class :character   Class :character  
+##  Median :25.50   Median :16.00   Mode  :character   Mode  :character  
+##  Mean   :25.48   Mean   :15.94                                        
+##  3rd Qu.:37.75   3rd Qu.:20.75                                        
+##  Max.   :50.00   Max.   :25.00                                        
+##     Vecinos       Diametros         Altura     
+##  Min.   :0.00   Min.   : 7.70   Min.   : 8.47  
+##  1st Qu.:2.25   1st Qu.:13.88   1st Qu.:11.78  
+##  Median :3.00   Median :15.70   Median :14.24  
+##  Mean   :3.34   Mean   :15.79   Mean   :13.94  
+##  3rd Qu.:4.00   3rd Qu.:18.10   3rd Qu.:16.05  
+##  Max.   :6.00   Max.   :22.70   Max.   :21.46</code></pre>
 <pre class="r"><code># Resumen estadístico básico de las columnas 3 a 5 columnas
 
 summary(inventario[ ,3:5])</code></pre>
