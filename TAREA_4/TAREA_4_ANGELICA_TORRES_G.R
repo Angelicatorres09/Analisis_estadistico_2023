@@ -121,7 +121,7 @@ clase_5.1
 clase_5.4 <- subset(clase_5.1, mag<=5.4)
 clase_5.4
 
-113*100/1000=11.3
+#113*100/1000=11.3
 
 #e. ¿Qué porcentaje de los terremotos tiene una magnitud igual o mayor a 5.0?
 
