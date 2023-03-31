@@ -10,3 +10,4 @@ Almacenar mi código del curso de Análisis estadístico
 + Clase 6:Correlación, cuarteto de anscombe, coeficiente de correlación
 + Clase 7:Repaso de boxplots y correlación
 + Clase 8:Examen practico en RStudio
++ examen 31/03/2023
