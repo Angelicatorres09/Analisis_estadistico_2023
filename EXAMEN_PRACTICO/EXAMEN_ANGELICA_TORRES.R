@@ -1,6 +1,6 @@
                    #ANGELICA TORRES GARCÍA
                       #31/03/2023
-                  #MATRICULA 
+                  #MATRICULA 2173388
 
 library(repmis)
 suelo<- source_data("https://www.dropbox.com/s/3pi3huovq6qce42/obs.csv?dl=1")
@@ -68,7 +68,7 @@ cor.test(suelo$Clay1, suelo$Clay5)
 #P9
 
 plot(suelo$Clay5~suelo$Clay1)
-abline(regresion)
+
 
 lm(suelo$Clay5~suelo$Clay1)
 regresion <- lm(suelo$Clay5~suelo$Clay1)
@@ -76,12 +76,13 @@ regresion
 
 #P10
 
-# si son significativos
+# si son significativos 
 
 summary(regresion)
 
 #P11
 
+#cuando R cuadrada ajustada esta mas cercano a 1 es un modelo que predice correctamente.
 
 # ACTIVIDAD_7 -------------------------------------------------------------
 
@@ -111,6 +112,7 @@ varianza
 
 summary(varianza)
 
+# si existen diferencias significativas ya que P nos da menor a 0.05.
 
 #P16
 
