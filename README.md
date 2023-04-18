@@ -48,7 +48,7 @@ Semana 8
 
 + 📍31/03/2023 Clase 8 Examen práctico en Rstudio 
 
-+ 📍 31/03/2023 EXAMEN [EXAMEN](https://github.com/Angelicatorres09/Analisis_estadistico_2023/tree/main/Examen)
++ 📍 31/03/2023 EXAMEN [EXAMEN](https://github.com/Angelicatorres09/Analisis_estadistico_2023/tree/main/Examen) 
 
 
 
