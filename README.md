@@ -6,7 +6,7 @@
 
 
 Semana 1: 
-+ 📍26/01/2023 Laboratorio 1: Empezar con R y RStudio
++ 📍26/01/2023 Laboratorio 1: Empezar con R y RStudio  [LABORATORIO_1](https://github.com/Angelicatorres09/Analisis_estadistico_2023/tree/main/Laboratorios/LABORATORIO_1) 
 + 📍26/01/2023 Tarea 1: Primer análisis en R
 
 Semana 2: 
