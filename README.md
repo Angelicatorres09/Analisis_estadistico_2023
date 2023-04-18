@@ -8,7 +8,7 @@ Desarrollo del curso
 
 Semana 1: 
 
-+ 📍Scripts 
++ 📍Scripts [Script](https://github.com/Angelicatorres09/Analisis_estadistico_2023/tree/main/scripts)
 + 📍26/01/2023 Clase 1: Creación de la cuenta GitHub y sincronización de Git con RStudio
 + 📍03/02/2023 Laboratorio 1: Empezar con R y RStudio  [LABORATORIO_1](https://github.com/Angelicatorres09/Analisis_estadistico_2023/tree/main/Laboratorios/LABORATORIO_1) 
 + 📍03/02/2023 Tarea 1: Primer análisis en R [TAREA_1_ANGELICA_TORRES](https://github.com/Angelicatorres09/Analisis_estadistico_2023/tree/main/Tareas/TAREA_1_ANGELICA_TORRES)
