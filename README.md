@@ -4,6 +4,7 @@
 # Analisis_estadistico_2023
 #Desarrollo del curso
 
+📍
 +Semana 1: Preparación de la plataforma y crear cuenta GitHub y  sincronización de Git con Rstudio en  computadora personal.
 + Clase 2: Elaboración de Script con operaciones y estadistica basica, boxplot, histogramas e importación base de datos.
 + Clase 3: Importar datos desde URL's, funcion subset(), representaciones graficas (histogramas, barplot)
