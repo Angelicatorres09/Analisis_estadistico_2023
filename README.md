@@ -5,8 +5,15 @@
 #Desarrollo del curso
 
 
-# Semana 1: 
-+ 📍26.01.2023 Preparación de la plataforma y crear cuenta GitHub y  sincronización de Git con Rstudio en  computadora personal.
+Semana 1: 
++ 📍26/01/2023 Laboratorio 1: Empezar con R y RStudio
++ 📍26/01/2023 Tarea 1: Primer análisis en R
+
+Semana 2: 
+
++ 📍26/01/2023 Laboratorio 1: Empezar con R y RStudio
+
+
 + Clase 2: Elaboración de Script con operaciones y estadistica basica, boxplot, histogramas e importación base de datos.
 + Clase 3: Importar datos desde URL's, funcion subset(), representaciones graficas (histogramas, barplot)
 + Clase 4: Resumir datos graficamente (Grafica circular, histogramas) 
