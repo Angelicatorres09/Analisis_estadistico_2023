@@ -30,14 +30,13 @@ Semana 4
 
 Semana 5
 
-+ 📍23/02/2023 Clase 5: Repaso de estadística básica, importar base de datos en línea y elaboración de histogramas
-
-+ 📍 10/03/2023 Laboratorio 5: Correlación
-+ 📍 10/03/2023 Tarea 5: Correlación 
++ 📍23/02/2023 Clase 5: Correlación, cuarteto de anscombe, coeficiente de correlación
++ 📍 10/03/2023 Laboratorio 5: Correlación [LABORATORIO_5_ANGELICA_TORRES](https://github.com/Angelicatorres09/Analisis_estadistico_2023/tree/main/Laboratorios/LABORATORIO_5)
++ 📍 10/03/2023 Tarea 5: Correlación [TAREA_5_ANGELICA_TORRES_GARCIA](https://github.com/Angelicatorres09/Analisis_estadistico_2023/tree/main/Tareas/TAREA_5_ANGELICA_TORRES)
 
 Semana 6
 
-+ Clase 6: Correlación, cuarteto de anscombe, coeficiente de correlación
++ 📍02/03/2023 Clase 6: Repaso de estadística básica, importar base de datos en línea y elaboración de histogramas
 
 Semana 7
 
@@ -47,7 +46,7 @@ Semana 8
 
 + Clase 8 Examen práctico en Rstudio 
 
-+ 📍 31/03/2023 Examen 
++ 📍 31/03/2023 [EXAMEN](Examen https://github.com/Angelicatorres09/Analisis_estadistico_2023/tree/main/Examen)
 
 
 
