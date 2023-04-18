@@ -97,8 +97,6 @@ Altura_Tsuga_Douglasia
 
 hist(conjunto$Altura)
 
-hist(conjunto$H.media)
-
 hist(H.media$Altura)
 
 hist(H.16$Altura)
