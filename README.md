@@ -13,25 +13,24 @@ Semana 1:
 
 Semana 2: 
 
-+ Clase 2: Generación de Script con operaciones y estadística básica, boxplot, histogramas e importación de bases de datos
++ 📍02/02/2023 Clase 2: Generación de Script con operaciones y estadística básica, boxplot, histogramas e importación de bases de datos
 + 📍23/02/2023 Laboratorio 3: Importar datos a R [LABORATORIO SEMANA 3](https://github.com/Angelicatorres09/Analisis_estadistico_2023/tree/main/Laboratorios/LABORATORIO%20SEMANA%203)
 + 📍23/02/2023 Tarea 2: Uso de restricciones y estadísticas descriptivas [TAREA_2_ANGELICA_TORRES](https://github.com/Angelicatorres09/Analisis_estadistico_2023/tree/main/Tareas/TAREA_2_ANGELICA_TORRES)
 
 Semana 3
 
-+ Clase 3: Importar datos desde URL's, función subset(), representaciones gráficas (histogramas, barplot)
-+ 📍 25/02/2023 Tarea 3: Medidas de tendencia central
++ 📍09/02/2023 Clase 3: Importar datos desde URL's, función subset(), representaciones gráficas (histogramas, barplot) 
++ 📍 25/02/2023 Tarea 3: Medidas de tendencia central [TAREA_3_ANGELICA_TORRES](https://github.com/Angelicatorres09/Analisis_estadistico_2023/tree/main/Tareas/TAREA_3_ANGELICA_TORRES)
 
 Semana 4
 
-+ Clase 4: Resumir datos graficamente (Gráfica circular, histogramas)
-
-+ 📍 01/03/2023 Laboratorio 4: Resumir datos gráficamente
-+ 📍 01/03/2023 Tarea 4: Boxplot e Histogramas
++ 📍16/02/2023 Clase 4: Resumir datos graficamente (Gráfica circular, histogramas)
++ 📍 01/03/2023 Laboratorio 4: Resumir datos gráficamente [LABORATORIO_4_ANGELICA_TORRES](https://github.com/Angelicatorres09/Analisis_estadistico_2023/tree/main/Laboratorios/LABORATORIO%204)
++ 📍 01/03/2023 Tarea 4: Boxplot e Histogramas [TAREA_4_ANGELICA_TORRES](https://github.com/Angelicatorres09/Analisis_estadistico_2023/tree/main/Tareas/TAREA_4_ANGELICA_TORRES)
 
 Semana 5
 
-+ Clase 5: Repaso de estadística básica, importar base de datos en línea y elaboración de histogramas
++ 📍23/02/2023 Clase 5: Repaso de estadística básica, importar base de datos en línea y elaboración de histogramas
 
 + 📍 10/03/2023 Laboratorio 5: Correlación
 + 📍 10/03/2023 Tarea 5: Correlación 
