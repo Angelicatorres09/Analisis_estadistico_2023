@@ -6,7 +6,7 @@
 
 
 # Semana 1: 
-+ 📍 Preparación de la plataforma y crear cuenta GitHub y  sincronización de Git con Rstudio en  computadora personal.
++ 📍26.01.2023 Preparación de la plataforma y crear cuenta GitHub y  sincronización de Git con Rstudio en  computadora personal.
 + Clase 2: Elaboración de Script con operaciones y estadistica basica, boxplot, histogramas e importación base de datos.
 + Clase 3: Importar datos desde URL's, funcion subset(), representaciones graficas (histogramas, barplot)
 + Clase 4: Resumir datos graficamente (Grafica circular, histogramas) 
