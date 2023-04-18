@@ -52,7 +52,8 @@ Semana 8
 
 Gráfica de contribución al repositorio
 
-![image](https://user-images.githubusercontent.com/123663367/232901650-e0790f6a-a0e8-48f0-abcd-a2d3f526ade2.png)
+![image](https://user-images.githubusercontent.com/123663367/232902229-8de4ee7d-d9d4-4634-9500-b88038b1aec1.png)
+
 
 
 
