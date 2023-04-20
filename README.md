@@ -51,7 +51,7 @@ Semana 8
 + 🌲16/03/2023 Examen [EXAMEN](https://github.com/Angelicatorres09/Analisis_estadistico_2023/tree/main/Examen) 
 
 
-Gráfica de contribución al repositorio
+# Gráfica de contribución al repositorio
 
 ![image](https://user-images.githubusercontent.com/123663367/232902229-8de4ee7d-d9d4-4634-9500-b88038b1aec1.png)
 
