@@ -1,7 +1,7 @@
 # 🌵ANGELICA TORRES GARCÍA
 # Producto integrador del aprendisaje 
 # Repositorio Gethub
-# Análisis_estadístico_2023
+# Análisis estadístico 2023
 
 # Desarrollo del curso
 
