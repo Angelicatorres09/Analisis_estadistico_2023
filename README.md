@@ -27,7 +27,7 @@ Semana 3
 Semana 4
 
 + 🌲16/02/2023 Clase 4: Resumir datos graficamente (Gráfica circular, histogramas)
-+ 🌲 01/03/2023 Laboratorio 4: Resumir datos gráficamente [LABORATORIO_4_ANGELICA_TORRES](https://github.com/Angelicatorres09/Analisis_estadistico_2023/tree/main/Laboratorios/LABORATORIO%204)
++ 🌲 01/03/2023 Laboratorio 4: Resumir datos gráficamente [LABORATORIO_4_ANGELICA_TORRES](https://github.com/Angelicatorres09/Analisis_estadistico_2023/tree/main/Laboratorios/LABORATORIO_4)
 + 🌲 01/03/2023 Tarea 4: Boxplot e Histogramas [TAREA_4_ANGELICA_TORRES](https://github.com/Angelicatorres09/Analisis_estadistico_2023/tree/main/Tareas/TAREA_4_ANGELICA_TORRES)
 
 Semana 5
